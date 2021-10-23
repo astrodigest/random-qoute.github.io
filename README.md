@@ -1,1 +1,1 @@
-# Quote-generator.github.io
+# Random-quote.github.io
